@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30px" />
  </div>
 ## -
-<div class="redes_socias">
+<div class="redes_socias" style="display: inline_block">
 <a href="https://www.facebook.com/kevinkafalahttps://www.facebook.com/kevinkafala" title="Kevin Kafala"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  /> </a>
  <a href="https://api.whatsapp.com/send?phone=+244924112838&text=Vim%20pelo%20Github" title="Kevin Kafala"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  /> </a>
 
