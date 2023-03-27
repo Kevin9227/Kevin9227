@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando em PHC Framework.
 - 🌱 Atualmente estou aprendendo JavaScript/Php/React.Js 
 - 📫 How to reach me: joaquimdecampos@outlook.pt
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9227&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9227&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9227&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9227&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <div  style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
