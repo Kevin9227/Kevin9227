@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Atualmente estou trabalhando em PHC Framework.
-- 🌱 Atualmente estou aprendendo JavaScript/Php/React.Js 
+- 🔭 Atualmente estou trabalhando em PHC Framework - FoxPro.
+- 🌱 Atualmente estou aprendendo JavaScript/Dart/NodeJ/ReactJ 
 - 📫 How to reach me: joaquimdecampos@outlook.pt
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9227&show_icons=true&theme=transparent )
