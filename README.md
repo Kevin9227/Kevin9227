@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 " title="Kevin Kafala"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> </a>
 
  </div>
-
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/Kevin9227/count.svg"/>
+</p>
+</div>
